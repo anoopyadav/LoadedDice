@@ -1,0 +1,17 @@
+README
+Loaded dice simulator
+By: Anoop Yadav
+
+0). Introduction
+* Uses the Alias Method as described in http://www.keithschwarz.com/darts-dice-coins/
+* Basically, the loaded dice is simulated by means of a fair dice roll and a biased coin toss.
+
+1). How to run
+* Untar the archive using "tar xvf LoadedDice.tar.gz"
+* Type "make"
+* Type "dice <input_file>" to execute.
+* All commands to be executed without quotes.
+
+2). Assumpions made
+* I'm assuming that the input file will be syntactically correct.
+* The program does no error checks on input other than checking for an input file.
